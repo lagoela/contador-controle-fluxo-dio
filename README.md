@@ -1,18 +1,12 @@
-## Getting Started
+## Desafio Controle de Fluxo Trilha Desenvolvedor Java DIO
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Nesse desafio, deve ser criado um aplicativo de terminal (cli) que simula um contador de números baseado na diferenca de dois parâmetros inseridos no console.
 
-## Folder Structure
+## Conhecimentos utilizados:
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- Tipos de variáveis
+- Scanner
+- Estrutura de classe
+- Laços de Repetição
+- Tratamento de Exceções
+- Git
